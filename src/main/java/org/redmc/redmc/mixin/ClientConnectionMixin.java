@@ -1,6 +1,6 @@
-package sh.brv.redmc.mixin;
+package org.redmc.redmc.mixin;
 
-import sh.brv.redmc.RedMCConstants;
+import org.redmc.redmc.RedMCConstants;
 import io.netty.channel.ChannelHandlerContext;
 import net.minecraft.network.ClientConnection;
 import net.minecraft.network.PacketCallbacks;

@@ -1,13 +1,13 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "sh.brv.redmc.mixin",
+  "package": "org.redmc.redmc.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
   ],
   "client": [
-    "sh.brv.redmc.mixin.TitleScreenMixin",
-    "sh.brv.redmc.mixin.ClientConnectionMixin"
+    "org.redmc.redmc.mixin.TitleScreenMixin",
+    "org.redmc.redmc.mixin.ClientConnectionMixin"
   ],
   "injectors": {
     "defaultRequire": 1

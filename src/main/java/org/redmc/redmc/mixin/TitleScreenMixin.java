@@ -1,6 +1,6 @@
-package sh.brv.redmc.mixin;
+package org.redmc.redmc.mixin;
 
-import sh.brv.redmc.RedMCClient;
+import org.redmc.redmc.RedMCClient;
 import net.minecraft.client.gui.screen.Screen;
 import net.minecraft.client.gui.screen.TitleScreen;
 import net.minecraft.client.gui.widget.TextWidget;

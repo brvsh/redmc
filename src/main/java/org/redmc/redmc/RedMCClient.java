@@ -1,4 +1,4 @@
-package sh.brv.redmc;
+package org.redmc.redmc;
 
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;

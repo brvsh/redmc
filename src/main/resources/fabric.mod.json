@@ -6,13 +6,13 @@
   "description": "a minecraft redteaming utility mod",
   "authors": [ "brv.sh" ],
   "contact": {
-    "homepage": "https://redmc.brv.sh"
+    "homepage": "https://redmc.org"
   },
   "license": "BSD 3-Clause",
   "environment": "*",
   "entrypoints": {
     "client": [
-      "sh.brv.redmc.RedMCClient"
+      "org.redmc.redmc.RedMCClient"
     ],
     "main": [
     ]

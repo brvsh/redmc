@@ -1,4 +1,4 @@
-package sh.brv.redmc;
+package org.redmc.redmc;
 
 import java.util.Arrays;
 import java.util.List;
