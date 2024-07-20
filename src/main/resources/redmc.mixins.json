@@ -6,8 +6,8 @@
   "mixins": [
   ],
   "client": [
-    "org.redmc.redmc.mixin.TitleScreenMixin",
-    "org.redmc.redmc.mixin.ClientConnectionMixin"
+    "ClientConnectionMixin",
+    "TitleScreenMixin"
   ],
   "injectors": {
     "defaultRequire": 1

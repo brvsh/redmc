@@ -18,7 +18,7 @@ public class TitleScreenMixin extends Screen {
 
     @Inject(at = @At("RETURN"), method = "initWidgetsNormal(II)V")
     private void onInitWidgetsNormal(int Y, int spacingY, CallbackInfo ci) {
-        Text message = Text.of("redmc" + RedMCClient.getModVersion("redmc"));
+        Text message = Text.of("redmc v" + RedMCClient.getModVersion("redmc"));
         this.addDrawableChild(new TextWidget(20, 10, textRenderer.getWidth(message), textRenderer.fontHeight, message, textRenderer));
     }
 }
