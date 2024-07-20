@@ -9,6 +9,7 @@
     "homepage": "https://redmc.org"
   },
   "license": "BSD 3-Clause",
+  "icon": "assets/redmc_512.png",
   "environment": "*",
   "entrypoints": {
     "client": [
