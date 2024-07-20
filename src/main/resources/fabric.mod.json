@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "redmc",
+  "version": "${version}",
+  "name": "redmc",
+  "description": "a minecraft redteaming utility mod",
+  "authors": [ "brv.sh" ],
+  "contact": {
+    "homepage": "https://redmc.brv.sh"
+  },
+  "license": "BSD 3-Clause",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "sh.brv.redmc.RedMCClient"
+    ],
+    "main": [
+    ]
+  },
+  "mixins": [
+    "redmc.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
