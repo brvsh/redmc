@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manautils.main.iml" filepath="$PROJECT_DIR$/.idea/modules/manautils.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manautils.test.iml" filepath="$PROJECT_DIR$/.idea/modules/manautils.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redmc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/redmc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redmc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/redmc.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/redmc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/redmc.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/redmc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/redmc.test.iml" />
     </modules>
